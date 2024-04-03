@@ -41,4 +41,4 @@ Um das Modell zu trainieren und zu evaluieren, führen Sie einfach alle Zellen d
 ## Ergebnisse
 
 Die Ausgabe des Notebooks umfasst die Genauigkeit und den Verlust des Modells während des Trainings und der Validierung.
-9 zufällig ausgewählte Bilder werden von dem Model klassifiziert. 
+9 zufällig ausgewählte Bilder werden von dem Model klassifiziert.
